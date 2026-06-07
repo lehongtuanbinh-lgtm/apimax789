@@ -1,0 +1,15 @@
+{
+  "name": "max789-server",
+  "version": "1.0.0",
+  "description": "Server API AI VIP",
+  "type": "module",
+  "main": "max789.js",
+  "scripts": {
+    "start": "node max789.js"
+  },
+  "dependencies": {
+    "fastify": "^4.26.2",
+    "@fastify/cors": "^9.0.1",
+    "node-fetch": "^3.3.2"
+  }
+}
